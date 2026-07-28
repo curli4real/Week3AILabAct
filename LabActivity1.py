@@ -42,7 +42,7 @@ def run_kiosk():
         else:
             print(f"{name}, {result}.")
 
-        print()  # blank line for readability
+        print()  
 
     print(f"Kiosk session ended. Total students who successfully borrowed: {students_helped}")
 
